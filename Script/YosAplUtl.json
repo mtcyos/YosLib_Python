@@ -1,0 +1,60 @@
+{
+    "YosAplUtl": {
+        "YosGesDoc": {
+            "Des": "Gestión de Documentos Minimalista.\nLa gestión de documentos es una aplicación que permite crear de manera rápida y sencilla los documentos que necesite.\nSolo se permite texto, el cual se puede clasificar por capítulo, subcapítulo y párrafo, permitiendo la reordenación de ellos.\nEn la opción de guardar, la aplicación genera un .pdf en la subcarpeta Doc e incluye un índice.",
+            "Ver": "2026.07",
+            "Sct": "YosGesDoc.py",
+            "Run": "/YosGesDoc",
+            "Etn": "Gui"
+        },
+        "PreMatDti": {
+            "Des": "Envío de la PreMatricula a DTI.",
+            "Ver": "2026.07",
+            "Sct": "PreMatDti.py",
+            "Run": "PreMatDti_Env() para Realizar el envio, PreMatDti_Ver() para Ver el estado, PreMatDti_Eli() para Vaciar el envio.",
+            "Etn": "Tui"
+        },
+        "PrtAcaDti": {
+            "Des": "Envío de la Propuesta Académica a DTI.",
+            "Ver": "2026.07",
+            "Sct": "PrtAcaDti.py",
+            "Run": "PrtAcaDti_Env() para Realizar el envio, PrtAcaDti_Ver() para Ver el estado, PrtAcaDti_Eli() para Vaciar el envio.",
+            "Etn": "Tui"
+        },
+        "PrtAcaXls": {
+            "Des": "Generación de la Propuesta Académica en Excel.",
+            "Ver": "2026.07",
+            "Sct": "PrtAcaXls.py",
+            "Run": "PrtAcaXls_Gen()",
+            "Etn": "Tui"
+        },
+        "PrtAcaXlsDile": {
+            "Des": "Generación de la Propuesta Académica del DILE en Excel.",
+            "Ver": "2026.07",
+            "Sct": "PrtAcaXlsDile.py",
+            "Run": "PrtAcaXlsDile_Gen()",
+            "Etn": "Tui"
+        },
+        "Tsc_UsrNue": {
+            "Des": "Creación de nuevo usuario en Servidor Rds.",
+            "Ver": "2026.07",
+            "Sct": "Tsc_UsrNue.py",
+            "Run": "Tsc_UsrNue(usr=None, pas=None), si no los pone el sistema se los pide.",
+            "Etn": "Tui"
+        },
+        "YosAchAcc": {
+            "Des": "Muestra Directorio para Descargar los Archivos",
+            "Ver": "2026.07",
+            "Sct": "YosAchAcc.py",
+            "Run": "/YosAchAcc?Dir=«DIRECTORIO»&Tit=«TITULO»",
+            "Etn": "Gui"
+        },
+        "DbfCreSQLite": {
+            "Des": "IMPORTA DE .dbf a SQLite",
+            "Ver": "2026.07",
+            "Sct": "Dbf_Cre_Sqt.py",
+            "Run": "DbfCreSQLite()",
+            "Etn": "Tui"
+        }
+    }
+}

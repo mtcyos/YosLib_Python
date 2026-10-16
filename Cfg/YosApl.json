@@ -1,0 +1,16 @@
+{
+    "YosApl": {
+        "YosMnu_Tui": {
+            "cTip": "Tui",
+            "cNom": "MENU DE APLICACIONES"
+        },
+        "YosWwwGes_Gui": {
+            "cTip": "Gui",
+            "cNom": "Web DE GESTION"
+        },
+        "YosWwwBot_Gui": {
+            "cTip": "Gui",
+            "cNom": "WEB DE BOTONES, Pagina Web sencilla con Botones en la página de inicio."
+        }
+    }
+}
